@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shanguang",
+    "texture": "a776ca97-fd7a-4034-aedd-29805efc44db",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      458,
+      301
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      464,
+      307
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

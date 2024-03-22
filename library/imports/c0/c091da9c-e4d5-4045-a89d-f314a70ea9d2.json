@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "bukezhixing",
+    "texture": "1cad304a-6b90-45a5-b36a-4755882b35a2",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      858,
+      340
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      858,
+      340
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

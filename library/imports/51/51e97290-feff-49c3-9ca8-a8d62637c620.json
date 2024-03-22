@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xiaobang",
+    "texture": "c5e972c0-6513-4af1-a718-a0fab924fee7",
+    "atlas": "",
+    "rect": [
+      3,
+      3,
+      439,
+      232
+    ],
+    "offset": [
+      0.5,
+      -0.5
+    ],
+    "originalSize": [
+      444,
+      237
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

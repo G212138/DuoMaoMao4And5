@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "putongdianji",
+    "texture": "9462d434-c51c-4742-be17-84f225c2968a",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      278,
+      241
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      282,
+      245
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

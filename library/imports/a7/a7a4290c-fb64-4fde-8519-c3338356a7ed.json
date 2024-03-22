@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "weixiaozui",
+    "texture": "84ef8792-ff98-4a23-b495-78ee15dac433",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      95,
+      55
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      95,
+      55
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

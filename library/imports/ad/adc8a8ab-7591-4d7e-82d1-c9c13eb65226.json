@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shili",
+    "texture": "77afdc35-bf53-48bb-a17f-f1b0a3f7cba0",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

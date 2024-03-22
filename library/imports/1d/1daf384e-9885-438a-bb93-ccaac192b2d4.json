@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "xuxiandiban",
+    "texture": "a0bc1e95-d922-4d9e-aa12-e6298f19f33b",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

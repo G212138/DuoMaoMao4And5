@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "shenlv_",
+    "texture": "7d352ad9-fa79-487b-8d64-8f2f885032ca",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      53,
+      283
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      53,
+      283
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

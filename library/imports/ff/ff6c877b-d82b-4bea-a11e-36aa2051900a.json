@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "hong",
+    "texture": "a15280bf-1987-4ed5-bd0e-2fae837c2c22",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      123,
+      250
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      123,
+      250
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

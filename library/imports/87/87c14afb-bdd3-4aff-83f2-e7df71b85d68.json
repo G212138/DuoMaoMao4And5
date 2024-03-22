@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "img-fen",
+    "texture": "1d2c8456-bf83-483e-9377-22fbaac36761",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      54,
+      236
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      54,
+      236
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

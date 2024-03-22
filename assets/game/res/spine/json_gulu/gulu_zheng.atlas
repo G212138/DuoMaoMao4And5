@@ -1,0 +1,293 @@
+
+gulu_zheng.png
+size: 1907,1037
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+GULU_bixin_1
+  rotate: false
+  xy: 1597, 85
+  size: 114, 114
+  orig: 116, 116
+  offset: 1, 1
+  index: -1
+GULU_bixin_2
+  rotate: false
+  xy: 1714, 186
+  size: 56, 54
+  orig: 58, 56
+  offset: 1, 1
+  index: -1
+GULU_bixin_3
+  rotate: false
+  xy: 130, 2
+  size: 48, 51
+  orig: 51, 53
+  offset: 1, 1
+  index: -1
+GULU_bizi
+  rotate: true
+  xy: 1509, 443
+  size: 61, 49
+  orig: 61, 49
+  offset: 0, 0
+  index: -1
+GULU_gaoguang1
+  rotate: false
+  xy: 1713, 102
+  size: 40, 40
+  orig: 42, 42
+  offset: 1, 1
+  index: -1
+GULU_gaoguang2
+  rotate: false
+  xy: 1469, 12
+  size: 39, 40
+  orig: 41, 42
+  offset: 1, 1
+  index: -1
+GULU_gebo1
+  rotate: false
+  xy: 463, 77
+  size: 404, 65
+  orig: 404, 65
+  offset: 0, 0
+  index: -1
+GULU_gebo2
+  rotate: false
+  xy: 463, 11
+  size: 404, 64
+  orig: 404, 64
+  offset: 0, 0
+  index: -1
+GULU_jiao1
+  rotate: false
+  xy: 869, 6
+  size: 186, 115
+  orig: 186, 115
+  offset: 0, 0
+  index: -1
+GULU_jiao2
+  rotate: false
+  xy: 1057, 6
+  size: 186, 115
+  orig: 186, 115
+  offset: 0, 0
+  index: -1
+GULU_kaik_di
+  rotate: true
+  xy: 1473, 54
+  size: 218, 122
+  orig: 218, 122
+  offset: 0, 0
+  index: -1
+GULU_kaik_she
+  rotate: true
+  xy: 1568, 335
+  size: 169, 77
+  orig: 170, 77
+  offset: 0, 0
+  index: -1
+GULU_kaik_ya
+  rotate: false
+  xy: 2, 26
+  size: 126, 27
+  orig: 126, 27
+  offset: 0, 0
+  index: -1
+GULU_lian
+  rotate: false
+  xy: 2, 144
+  size: 891, 891
+  orig: 891, 891
+  offset: 0, 0
+  index: -1
+GULU_line
+  rotate: true
+  xy: 1652, 495
+  size: 186, 116
+  orig: 188, 118
+  offset: 1, 1
+  index: -1
+GULU_maozi
+  rotate: false
+  xy: 1209, 274
+  size: 357, 167
+  orig: 358, 168
+  offset: 0, 1
+  index: -1
+GULU_mouth
+  rotate: false
+  xy: 1513, 683
+  size: 215, 60
+  orig: 215, 60
+  offset: 0, 0
+  index: -1
+GULU_mouth-smile
+  rotate: false
+  xy: 1245, 12
+  size: 222, 122
+  orig: 222, 122
+  offset: 0, 0
+  index: -1
+GULU_shou_l1
+  rotate: false
+  xy: 1789, 458
+  size: 116, 116
+  orig: 118, 118
+  offset: 1, 1
+  index: -1
+GULU_shou_r1
+  rotate: true
+  xy: 1789, 341
+  size: 115, 116
+  orig: 118, 118
+  offset: 1, 1
+  index: -1
+GULU_tui1
+  rotate: true
+  xy: 2, 55
+  size: 87, 459
+  orig: 87, 459
+  offset: 0, 0
+  index: -1
+GULU_tui2
+  rotate: false
+  xy: 1805, 576
+  size: 86, 459
+  orig: 86, 459
+  offset: 0, 0
+  index: -1
+GULU_wenhao
+  rotate: true
+  xy: 397, 13
+  size: 40, 45
+  orig: 40, 45
+  offset: 0, 0
+  index: -1
+GULU_yanbai1
+  rotate: false
+  xy: 1513, 745
+  size: 290, 290
+  orig: 290, 290
+  offset: 0, 0
+  index: -1
+GULU_yanbai2
+  rotate: false
+  xy: 895, 123
+  size: 286, 286
+  orig: 288, 288
+  offset: 1, 1
+  index: -1
+GULU_yandi1
+  rotate: false
+  xy: 895, 724
+  size: 312, 311
+  orig: 316, 315
+  offset: 2, 2
+  index: -1
+GULU_yandi2
+  rotate: false
+  xy: 895, 411
+  size: 312, 311
+  orig: 315, 315
+  offset: 1, 2
+  index: -1
+GULU_yanpi0_l
+  rotate: false
+  xy: 1209, 443
+  size: 298, 295
+  orig: 385, 295
+  offset: 48, 0
+  index: -1
+GULU_yanpi0_r
+  rotate: false
+  xy: 1209, 740
+  size: 302, 295
+  orig: 381, 295
+  offset: 42, 0
+  index: -1
+GULU_yanpi_r1
+  rotate: false
+  xy: 1183, 136
+  size: 288, 136
+  orig: 288, 136
+  offset: 0, 0
+  index: -1
+GULU_yanzhu1
+  rotate: false
+  xy: 1509, 506
+  size: 141, 175
+  orig: 144, 177
+  offset: 1, 1
+  index: -1
+GULU_yanzhu2
+  rotate: false
+  xy: 1647, 318
+  size: 140, 175
+  orig: 142, 177
+  offset: 1, 1
+  index: -1
+GULU_zan_1
+  rotate: false
+  xy: 1789, 225
+  size: 115, 114
+  orig: 117, 116
+  offset: 1, 1
+  index: -1
+GULU_zan_2
+  rotate: false
+  xy: 1714, 242
+  size: 49, 74
+  orig: 51, 76
+  offset: 1, 1
+  index: -1
+GULU_zhang_1
+  rotate: false
+  xy: 1597, 201
+  size: 115, 115
+  orig: 117, 117
+  offset: 1, 1
+  index: -1
+GULU_zhang_2
+  rotate: false
+  xy: 346, 13
+  size: 49, 40
+  orig: 51, 42
+  offset: 1, 1
+  index: -1
+GULU_zhang_3
+  rotate: true
+  xy: 1730, 694
+  size: 49, 64
+  orig: 51, 66
+  offset: 1, 1
+  index: -1
+GULU_zhang_4
+  rotate: true
+  xy: 236, 12
+  size: 41, 53
+  orig: 43, 55
+  offset: 1, 1
+  index: -1
+GULU_zhang_5
+  rotate: true
+  xy: 291, 13
+  size: 40, 53
+  orig: 43, 55
+  offset: 1, 1
+  index: -1
+GULU_zhang_6
+  rotate: true
+  xy: 180, 6
+  size: 47, 54
+  orig: 49, 56
+  offset: 1, 1
+  index: -1
+shouzhang
+  rotate: false
+  xy: 1713, 144
+  size: 41, 40
+  orig: 41, 40
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "duomaomao5",
+    "texture": "d26a6733-bf94-4d9c-8a17-7747d257366e",
+    "atlas": "",
+    "rect": [
+      2,
+      2,
+      1780,
+      1028
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      1784,
+      1032
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

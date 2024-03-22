@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "cuowu",
+    "texture": "6943681c-68f4-46f4-b263-f0bb7e4b96ac",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      392,
+      333
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      392,
+      333
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

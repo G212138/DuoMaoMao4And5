@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "gulu_zheng",
+    "texture": "3214c887-8cef-447b-9791-db051330eca4",
+    "atlas": "",
+    "rect": [
+      3,
+      2,
+      1902,
+      1033
+    ],
+    "offset": [
+      0.5,
+      0
+    ],
+    "originalSize": [
+      1907,
+      1037
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

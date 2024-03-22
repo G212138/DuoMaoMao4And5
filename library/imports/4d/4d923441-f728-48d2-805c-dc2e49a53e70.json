@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "chong",
+    "texture": "26151331-eaa7-4b0d-9226-e9485544dab3",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      891,
+      229
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      891,
+      229
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

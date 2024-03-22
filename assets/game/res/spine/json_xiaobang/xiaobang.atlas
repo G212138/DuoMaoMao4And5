@@ -1,0 +1,76 @@
+
+xiaobang.png
+size: 444,237
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+ya
+  rotate: true
+  xy: 425, 30
+  size: 12, 8
+  orig: 12, 8
+  offset: 0, 0
+  index: -1
+yan1b
+  rotate: false
+  xy: 424, 44
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+yan2b
+  rotate: true
+  xy: 365, 2
+  size: 33, 34
+  orig: 33, 34
+  offset: 0, 0
+  index: -1
+yan3b
+  rotate: false
+  xy: 365, 89
+  size: 51, 53
+  orig: 53, 55
+  offset: 1, 1
+  index: -1
+yanwu1
+  rotate: true
+  xy: 2, 6
+  size: 229, 361
+  orig: 229, 361
+  offset: 0, 0
+  index: -1
+yanwu2
+  rotate: false
+  xy: 365, 37
+  size: 44, 50
+  orig: 50, 56
+  offset: 3, 3
+  index: -1
+yanwu5
+  rotate: false
+  xy: 365, 144
+  size: 77, 91
+  orig: 83, 97
+  offset: 3, 3
+  index: -1
+zui
+  rotate: true
+  xy: 411, 37
+  size: 23, 11
+  orig: 23, 11
+  offset: 0, 0
+  index: -1
+zui1
+  rotate: true
+  xy: 411, 62
+  size: 25, 15
+  orig: 25, 15
+  offset: 0, 0
+  index: -1
+zui2
+  rotate: true
+  xy: 401, 8
+  size: 27, 22
+  orig: 27, 22
+  offset: 0, 0
+  index: -1

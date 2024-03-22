@@ -1,0 +1,27 @@
+
+putongdianji.png
+size: 282,245
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+star-d02
+  rotate: false
+  xy: 247, 210
+  size: 33, 33
+  orig: 35, 35
+  offset: 1, 1
+  index: -1
+xian-d04
+  rotate: false
+  xy: 247, 172
+  size: 26, 36
+  orig: 26, 36
+  offset: 0, 0
+  index: -1
+yuan-d02
+  rotate: false
+  xy: 2, 2
+  size: 243, 241
+  orig: 245, 243
+  offset: 1, 1
+  index: -1
